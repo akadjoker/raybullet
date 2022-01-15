@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1636920884 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raybullet/main.cpp
+	<iostream>
+	<vector>
+	<map>
+	"raylib.h"
+	"rlgl.h"
+	"base.h"
+	<btBulletDynamicsCommon.h>
+	<BulletCollision/CollisionDispatch/btGhostObject.h>
+
+1636912193 /media/djoker/code/linux/cpp/raylib/rayprojects/raybullet/base.h
+	<new>
+	<memory>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<cwchar>
+	<cwctype>
+	<cctype>
+	<cmath>
+	<cstdarg>
+	<ctime>
+	<iostream>
+	<sstream>
+	<string>
+	<cstring>
+	<vector>
+	<list>
+	<set>
+	<stack>
+	<map>
+	<unordered_map>
+	<queue>
+	<algorithm>
+	<limits>
+	<functional>
+	<bitset>
+	<typeinfo>
+	<thread>
+	<mutex>
+	<chrono>
+
